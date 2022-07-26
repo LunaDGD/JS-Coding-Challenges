@@ -1,3 +1,4 @@
+// print even numbers 1 - 10
 let evenArr = [];
 
 for (i = 0; i <= 10; i++) {
