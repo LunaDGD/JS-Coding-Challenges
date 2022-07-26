@@ -6,4 +6,3 @@
 //   return [a, b];
 // }
 // console.log(splitter(9));
-
